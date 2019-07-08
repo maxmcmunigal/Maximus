@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximus.Utilities", "src\Maximus.Utilities\Maximus.Utilities.csproj", "{5EFF757A-DC9D-4C71-8942-699747E06A54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximus.Utilities", "src\Maximus.Utilities\Maximus.Utilities.csproj", "{5EFF757A-DC9D-4C71-8942-699747E06A54}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{49BBE431-AFA1-4519-BD82-48417290FFB7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{44E259B3-B63B-46B3-B368-980F4DD93918}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximus.Test.Utilities", "test\Maximus.Test.Utilities\Maximus.Test.Utilities.csproj", "{DE3B65A9-5933-4307-8FFA-14F5E9CB84A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximus.Test.Utilities", "test\Maximus.Test.Utilities\Maximus.Test.Utilities.csproj", "{DE3B65A9-5933-4307-8FFA-14F5E9CB84A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
